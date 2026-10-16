@@ -20,5 +20,6 @@ Imports:
     ggplot2,
     patchwork
 Suggests:
+    ltvocab,
     lubridate
 Config/roxygen2/version: 8.1.0
